@@ -5896,11 +5896,13 @@ textarea.form-control-lg {
 }
 
 .carousel-control-prev {
-  left: 0;
+  align-items: flex-end;
+  left: 35%;
 }
 
 .carousel-control-next {
-  right: 0;
+  align-items: flex-end;
+  right: 35%;
 }
 
 .carousel-control-prev-icon,
